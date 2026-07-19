@@ -11,5 +11,5 @@ public class Player {
         this.position = position;
     }
 
-    // Getters & Setters
+    // Getters & Setters to get user info
 }
